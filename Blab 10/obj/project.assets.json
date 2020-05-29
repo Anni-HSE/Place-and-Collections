@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Blab 10\\Blab 10\\lab 10.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Place-and-Collections\\Blab 10\\lab 10.csproj",
       "projectName": "lab 10",
-      "projectPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Blab 10\\Blab 10\\lab 10.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Place-and-Collections\\Blab 10\\lab 10.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Blab 10\\Blab 10\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - НИУ Высшая школа экономики\\Программирование\\Place-and-Collections\\Blab 10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
