@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "lab 12/1.0.0": {
+        "runtime": {
+          "lab 12.dll": {}
+        }
+      },
+      "lab 10/1.0.0": {
+        "runtime": {
+          "lab 10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lab 12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lab 10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\Tests.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\b\Tests\Debug\netcoreapp3.1\Tests.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\i\Tests\Debug\netcoreapp3.1\Tests.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\i\Tests\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\i\Tests\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\i\Tests\Debug\netcoreapp3.1\Tests.csproj.CopyComplete
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\i\Tests\Debug\netcoreapp3.1\Tests.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Blab 10\.vs\lab 10\v16\lut\0\i\Tests\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
