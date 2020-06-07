@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\bin\Debug\netcoreapp3.1\lab 14.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\bin\Debug\netcoreapp3.1\lab 14.deps.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\bin\Debug\netcoreapp3.1\lab 14.runtimeconfig.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\bin\Debug\netcoreapp3.1\lab 14.runtimeconfig.dev.json
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\bin\Debug\netcoreapp3.1\lab 14.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\bin\Debug\netcoreapp3.1\lab 14.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.AssemblyInfo.cs
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.dll
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Place-and-Collections\lab 14\obj\Debug\netcoreapp3.1\lab 14.genruntimeconfig.cache

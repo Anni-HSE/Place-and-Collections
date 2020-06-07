@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>lab_13</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\lab 11\lab 11.csproj" />
+    <ProjectReference Include="..\lab 12\lab 12.csproj" />
+  </ItemGroup>
+
+</Project>

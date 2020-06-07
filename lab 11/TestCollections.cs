@@ -5,7 +5,7 @@ using System.Text;
 
 namespace lab_11
 {
-    class TestCollections
+    public class TestCollections
     {
         private protected int size = 0;
 
@@ -20,6 +20,29 @@ namespace lab_11
             get
             {
                 return size;
+            }
+        }
+
+        public virtual Region this[int index]
+        {
+            get
+            {
+                return Regions[index];
+            }
+            set
+            {
+                if (index >= 0 && index < size)
+                {
+                    Regions[index] = value;
+                    RegionsNames[index] = value.PlaceName;
+
+                    RegionPlace[value.BasePlace] = value;
+                    RegionString[value.PlaceName] = value;
+                }
+                else
+                {
+                    throw new Exception("position that is out of line with the size of the collection");
+                }
             }
         }
 
@@ -91,7 +114,7 @@ namespace lab_11
             }
         }
 
-        public void Add(Region item)
+        public virtual void Add(Region item)
         {
             Regions.Add(item);
             RegionsNames.Add(item.PlaceName);
@@ -121,8 +144,9 @@ namespace lab_11
             size++;
         }
 
-        public void Remove(Region item)
+        public virtual bool Remove(Region item)
         {
+
             if (Regions.IndexOf(item) != -1)
             {
                 Regions.Remove(item);
@@ -132,11 +156,34 @@ namespace lab_11
                 RegionString.Remove(item.PlaceName);
 
                 size--;
+
+                return true;
             }
-            else
+
+            Console.WriteLine("Удалить элемент невозможно, так как его нет в коллекции");
+            return false;
+
+        }
+
+        public virtual bool Remove(int position)
+        {
+            if (position < size && position >= 0)
             {
-                Console.WriteLine("Удалить элемент невозможно, так как его нет в коллекции");
+                Region item = Regions[position];
+                Regions.Remove(item);
+                RegionsNames.Remove(item.PlaceName);
+
+                RegionPlace.Remove(item.BasePlace);
+                RegionString.Remove(item.PlaceName);
+
+                size--;
+
+                return true;
             }
+
+            Console.WriteLine("Удалить элемент невозможно, так как его нет в коллекции");
+            return false;
+
         }
     }
 }
